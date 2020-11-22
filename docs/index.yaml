@@ -3,7 +3,7 @@ entries:
   kub-chart:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2020-11-22T22:28:39.895536216+01:00
+    created: 2020-11-22T23:18:44.161134461+01:00
     description: Microservices project
     digest: b500e0e753482c6e8d48a0fda275f38b4764c6a81703e266c38602921b846734
     maintainers:
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://al3x3i.github.io/kub-chart/kub-chart-1.0.0.tgz
     version: 1.0.0
-generated: 2020-11-22T22:28:39.895148427+01:00
+generated: 2020-11-22T23:18:44.160740056+01:00
